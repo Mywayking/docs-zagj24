@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-dm0l9a.jambul126.online/sitemap.xml
